@@ -1,0 +1,9 @@
+.chall-button {
+  margin: 30px 0;
+}
+
+@media (max-width: 500px) {
+  .chall-button {
+  width: 100%;
+  }
+}
